@@ -8,7 +8,7 @@ El objetivo de este proyecto es desarrollar un prototipo para hacer valoración 
 INTEGRANTES:
 Dr. Alain Manzo Martínez 
 Ing. Jesús Manuel Muñoz Larguero
-Ing. Oscar Beltrán
+Ing. Oscar Beltrán Gómez
 
 
 
