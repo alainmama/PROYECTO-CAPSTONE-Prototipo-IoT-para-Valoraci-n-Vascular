@@ -48,4 +48,8 @@ Conectar el tercer cable al pin inferior del puerto denominado BIAS.
 
 <img src="https://user-images.githubusercontent.com/95665770/182494870-6eeb022e-3bd4-4ab9-98d1-e4781e61a514.png" width="280" height="320">
 
+### Conexion de los sensores de medición pulso.
+Luego de haber conectado los electrodos a nuestro sistema lo siguiente de conectar serán los sensores de pulso, cada sensor cuenta con tres pines, un pin para el voltaje, uno para la tierra y el pin que envía señal a la tablilla (señal analógica).
+
+![image](https://user-images.githubusercontent.com/95665770/182495121-aebf74bb-fff8-4847-8d65-f08fc3b74484.png)
 
