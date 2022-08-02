@@ -29,6 +29,5 @@ Imagen 4
 ![image](https://user-images.githubusercontent.com/95665770/182493512-ed8fd25a-f396-49d0-90db-a2b360b9575b.png)
 ## Conductive Paste Ten20
 Imagen 5
-![image](https://user-images.githubusercontent.com/95665770/182493926-c37eeeed-1aa0-478f-af85-e98a192564a0.png)
-
+<img src="https://user-images.githubusercontent.com/95665770/182493926-c37eeeed-1aa0-478f-af85-e98a192564a0.png" width="480" height="400">
 
