@@ -52,3 +52,10 @@ Conectar el tercer cable al pin inferior del puerto denominado BIAS.
 Luego de haber conectado los electrodos a nuestro sistema lo siguiente de conectar serán los sensores de pulso, cada sensor cuenta con tres pines, un pin para el voltaje, uno para la tierra y el pin que envía señal a la tablilla (señal analógica).
 
 <img src="https://user-images.githubusercontent.com/95665770/182495121-aebf74bb-fff8-4847-8d65-f08fc3b74484.png" width="420" height="320">
+
+### Conexion Para la Lectura y Envio de Datos
+Una vez conectados los sensores a nuestra placa, lo siguiente será establecer la comunicación entre nuestra Raspberry y la tablilla CYTON, esto se logrará mediante nuestro OpenBCI Dongle, este dongle funciona mediante una señal de radiofrecuencia con la cual se comunica con la tablilla Cyton.
+
+Para realizar el enlace de comunicación el dongle debe estar conectado a uno de los puertos USB de la Raspberry y este automáticamente detectara el dongle sin la necesidad de instalar Drivers adicionales.
+
+![image](https://user-images.githubusercontent.com/95665770/182495717-2713cd69-e8ac-4f3b-98d4-90017aeaf66f.png)
