@@ -12,8 +12,9 @@ Dr. Alain Manzo Martínez
 Ing. Jesús Manuel Muñoz Larguero
 Ing. Oscar Beltrán Gómez
 
-
-
+# MATERIAL
+Raspberry Pi 3
+![image](https://user-images.githubusercontent.com/95665770/182489391-2ee927f3-27df-4f56-a381-23f5c9e4ce86.png)
 
 
 
