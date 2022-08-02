@@ -31,3 +31,19 @@ Imagen 4
 Imagen 5
 <img src="https://user-images.githubusercontent.com/95665770/182493926-c37eeeed-1aa0-478f-af85-e98a192564a0.png" width="280" height="320">
 
+# Conexión de Sensores y Comunicación
+## Cyton Biosensing Board
+El sistema embebido para registro de las señales fisiológicas está basado en la plataforma de desarrollo Open BCI (Open source Brain-Computer Interfaces). Este sistema embebido es básicamente un sistema de adquisición de datos basado en el Cyton Biosensing Board el cual tiene 8 canales para hacer registros de la actividad eléctrica neuronal ECG/EEG/EMG y otras variables fisiológicas como la onda de volumen de pulso (señal Fotopletismográfica). Este dispositivo tiene la capacidad de comunicarse inalámbricamente con la computadora mediante comunicación Bluetooth 4.0 y Wifi (utilizando el módulo Wifi Shield). El cerebro de este sistema es un procesador de 32 bits el cual responde a comandos AT por vía comunicación serial y su frecuencia de muestreo de trabajo es de 250Hz. Los entornos de trabajo sobre el cual opera este sistema son Windows 7 o superior y Linux.
+
+## Raspberry Pi 3 B+
+El sistema embebido para recibir las señales y procesarlas, es la Raspberry Pi 3 B+, que cuenta con un GPIO de 40 pines, el cual permite el contacto con el mundo exterior, tanto por sensores como con actuadores,  el GPIO de Raspberry trabaja con un nivel de 3.3V, cuenta con puertos de comunicación I2C, SPI y UART. Además la Raspberry Pi 3B+ cuenta con conexiones tradicionales como son puertos USB, conector de red ethernet, Jack de 3.5mm, puerto HDMI, puerto para memoria microSD y un conector micro-usb para la alimentación. Tambien podemos destacar los puertos especiales para la cámara y la pantalla.
+
+## ¿Como empezar?
+Para comenzar con la lectura de las señales fisiológicas, tenemos primeramente que realizar las conexiones de los sensores que utilizaremos para las mediciones, en este caso utilizaremos dos sensores de medición de pulso cardiaco y electrodos. Los sensores deben de ir conectados de la siguiente manera:
+
+### Conexion de los electrodos
+Conectar los dos pines de señal de los electrodos, uno en el pin superior y otro en el pin inferior del puerto denominado NP1.
+
+Conectar el tercer cable al pin inferior del puerto denominado BIAS.
+![image](https://user-images.githubusercontent.com/95665770/182494870-6eeb022e-3bd4-4ab9-98d1-e4781e61a514.png)
+
