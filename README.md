@@ -59,3 +59,47 @@ Una vez conectados los sensores a nuestra placa, lo siguiente será establecer l
 Para realizar el enlace de comunicación el dongle debe estar conectado a uno de los puertos USB de la Raspberry y este automáticamente detectara el dongle sin la necesidad de instalar Drivers adicionales.
 
 <img src="https://user-images.githubusercontent.com/95665770/182495717-2713cd69-e8ac-4f3b-98d4-90017aeaf66f.png" width="280" height="320">
+
+### Caracteristicas y datos Tecnicos del Hardware
+
+#### Raspberry Pi 3B+ especificaciones tecnicas.
+
+CPU + GPU: Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit SoC @ 1.4GHz
+RAM: 1GB LPDDR2 SDRAM
+Wi-Fi + Bluetooth: 2.4GHz y 5GHz IEEE 802.11.b/g/n/ac, Bluetooth 4.2, BLE
+Ethernet: Gigabit Ethernet sobre USB 2.0 (300 Mbps)
+GPIO de 40 pines
+HDMI
+4 puertos USB 2.0
+Puerto CSI para conectar una cámara.
+Puerto DSI para conectar una pantalla táctil
+Salida de audio estéreo y vídeo compuesto
+Micro-SD
+Power-over-Ethernet (PoE)
+Cyton Board especificaciones tecnicas.
+
+#### OpenBCI 32bit Board:
+
+    •    8 differential, high gain, low noise input channels
+    •    Compatible with active and passive electrodes
+    •    Texas Instruments ADS1299 ADC (link to datasheet)
+    •    PIC32MX250F128B microcontroller w/chipKIT™ bootloader (50MHz)
+    •    RFduino™ Low Power Bluetooth™ radio (Link to datasheet)
+    •    24-bit channel data resolution 
+    •    Programmable gain: 1, 2, 4, 6, 8, 12, 24
+    •    3.3V digital operating voltage
+    •    +/-2.5V analog operating voltage
+    •    ~3.3-12V input voltage
+    •    LIS3DH accelerometer (link to datasheet)
+    •    Micro SD card slot
+    •    5 GPIO pins, 3 of which can be Analog
+
+
+
+#### OpenBCI Dongle especificaciones tecnicas.
+
+    •    RFD22301 radio module from RFdigital™
+    •    FT231X USB-to-serial converter from FTDI
+    •    Can upload code to the OpenBCI board or the dongle
+    •    Fully broken out and pin-compatible w/ RFduino form factor  
+
