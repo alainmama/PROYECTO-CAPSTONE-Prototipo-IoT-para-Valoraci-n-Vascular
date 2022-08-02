@@ -16,7 +16,6 @@ Ing. Oscar Beltrán Gómez
 ## Raspberry Pi 3
 <img src="https://user-images.githubusercontent.com/95665770/182489391-2ee927f3-27df-4f56-a381-23f5c9e4ce86.png" width="480" height="400">
 ## Cyton Biosensing Board
-![image](https://user-images.githubusercontent.com/95665770/182492633-d595c1f7-4e3e-43d4-8337-10b2f2d65ec3.png)
-
+<img src="https://user-images.githubusercontent.com/95665770/182492633-d595c1f7-4e3e-43d4-8337-10b2f2d65ec3.png" width="480" height="400">
 
 
