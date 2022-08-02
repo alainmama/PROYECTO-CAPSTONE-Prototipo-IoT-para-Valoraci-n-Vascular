@@ -103,3 +103,13 @@ Cyton Board especificaciones tecnicas.
     •    Can upload code to the OpenBCI board or the dongle
     •    Fully broken out and pin-compatible w/ RFduino form factor  
 
+## Conexión al cuerpo para realizar mediciones
+### Conexion de los Electrodos y Sensores para Monitoreo
+Lo siguiente a realizar, será colocar los electrodos y sensores de pulso, al cuerpo de la persona o paciente a la que se le desee realizar el monitoreo, la manera de colocar estos sensores es la siguiente:
+
+Conecte el electrodo que corresponde a la tierra (GND) a la parte central ósea del pecho llamada esternón.
+Los electrodos restantes se colocarán en puntos opuestos del pecho, uno en el lado izquierdo y otro en el lado derecho, recuerde que estos dos electrodos son los que previamente se conectaron en el puerto NP1 de la tablilla CYTON.
+
+Coloque uno de los dos sensores de medición de pulso en el dedo índice de la mano izquierda, el otro puede ir, ya sea, en el dedo índice de la mano derecha o incluso en el dedo pulgar ambos pies.
+
+A continuacion se muestran los lugares aproximados en donde deben de ir los electrodos y sensores:
