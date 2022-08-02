@@ -9,7 +9,9 @@ Por otra parte, el sistema embebido para procesamiento de las señales y obtenci
 
 # INTEGRANTES:
 Dr. Alain Manzo Martínez 
+
 Ing. Jesús Manuel Muñoz Larguero
+
 Ing. Oscar Beltrán Gómez
 
 # MATERIAL
@@ -19,8 +21,11 @@ Imagen 1
 ## Cyton Biosensing Board
 Imagen 2
 <img src="https://user-images.githubusercontent.com/95665770/182492633-d595c1f7-4e3e-43d4-8337-10b2f2d65ec3.png" width="480" height="400">
-## Gold Cup Electrodes
+## 3 Gold Cup Electrodes
 Imagen 3
 ![image](https://user-images.githubusercontent.com/95665770/182493294-54a5fe42-15ef-4f93-87cc-63472f314919.png)
+## 2 Pulse Sensors
+Imagen 4
+![image](https://user-images.githubusercontent.com/95665770/182493512-ed8fd25a-f396-49d0-90db-a2b360b9575b.png)
 
 
