@@ -14,10 +14,13 @@ Ing. Oscar Beltrán Gómez
 
 # MATERIAL
 ## Raspberry Pi 3
+Imagen 1
 <img src="https://user-images.githubusercontent.com/95665770/182489391-2ee927f3-27df-4f56-a381-23f5c9e4ce86.png" width="480" height="400">
 ## Cyton Biosensing Board
+Imagen 2
 <img src="https://user-images.githubusercontent.com/95665770/182492633-d595c1f7-4e3e-43d4-8337-10b2f2d65ec3.png" width="480" height="400">
 ## Gold Cup Electrodes
-
+Imagen 3
+![image](https://user-images.githubusercontent.com/95665770/182493294-54a5fe42-15ef-4f93-87cc-63472f314919.png)
 
 
