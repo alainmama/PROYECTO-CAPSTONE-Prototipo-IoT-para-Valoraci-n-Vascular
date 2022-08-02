@@ -45,6 +45,7 @@ Para comenzar con la lectura de las señales fisiológicas, tenemos primeramente
 Conectar los dos pines de señal de los electrodos, uno en el pin superior y otro en el pin inferior del puerto denominado NP1.
 
 Conectar el tercer cable al pin inferior del puerto denominado BIAS.
+
 <img src="https://user-images.githubusercontent.com/95665770/182494870-6eeb022e-3bd4-4ab9-98d1-e4781e61a514.png" width="280" height="320">
 
 
