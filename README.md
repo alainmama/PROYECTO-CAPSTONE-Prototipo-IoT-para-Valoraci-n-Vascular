@@ -58,4 +58,4 @@ Una vez conectados los sensores a nuestra placa, lo siguiente será establecer l
 
 Para realizar el enlace de comunicación el dongle debe estar conectado a uno de los puertos USB de la Raspberry y este automáticamente detectara el dongle sin la necesidad de instalar Drivers adicionales.
 
-![image](https://user-images.githubusercontent.com/95665770/182495717-2713cd69-e8ac-4f3b-98d4-90017aeaf66f.png)
+<img src="https://user-images.githubusercontent.com/95665770/182495717-2713cd69-e8ac-4f3b-98d4-90017aeaf66f.png" width="280" height="320">
