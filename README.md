@@ -7,7 +7,7 @@ El sistema embebido para registro de las señales fisiológicas está basado en 
 
 Por otra parte, el sistema embebido para procesamiento de las señales y obtención de las métricas vasculares está basado en la plataforma Raspberry Pi 3. Como fortaleza adicional, esta plataforma permitirá que se tenga conectividad vía internet y la gestión de bases de datos para la consulta y el almacenamiento de las métricas de valoración vascular del paciente. La idea principal es que vía internet el médico pueda hacer la valoración del paciente sin necesidad de que éste se desplace a un centro de salud. Además, el médico podrá consultar el histórico de las métricas del paciente en todo momento, pedirle al paciente que haga una nueva adquisición de las señales y finalmente, comparar resultados del histórico del paciente con datos almacenados en otros centros de salud.  
 
-#INTEGRANTES:
+# INTEGRANTES:
 Dr. Alain Manzo Martínez 
 Ing. Jesús Manuel Muñoz Larguero
 Ing. Oscar Beltrán Gómez
