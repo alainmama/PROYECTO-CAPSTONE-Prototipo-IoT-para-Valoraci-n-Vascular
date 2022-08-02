@@ -13,9 +13,9 @@ Ing. Jesús Manuel Muñoz Larguero
 Ing. Oscar Beltrán Gómez
 
 # MATERIAL
-## Raspberry Pi 3
+Raspberry Pi 3
 <img src="https://user-images.githubusercontent.com/95665770/182489391-2ee927f3-27df-4f56-a381-23f5c9e4ce86.png" width="480" height="400">
-## Cyton Biosensing Board
+Cyton Biosensing Board
 <img src="https://user-images.githubusercontent.com/95665770/182492633-d595c1f7-4e3e-43d4-8337-10b2f2d65ec3.png" width="480" height="400">
 
 
