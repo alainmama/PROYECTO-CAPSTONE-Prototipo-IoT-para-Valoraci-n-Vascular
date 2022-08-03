@@ -115,3 +115,9 @@ Coloque uno de los dos sensores de medición de pulso en el dedo índice de la m
 A continuacion se muestran los lugares aproximados en donde deben de ir los electrodos y sensores:
 
 <img src="https://user-images.githubusercontent.com/95665770/182496697-ec9b1431-c4c4-4773-8c05-b541b1eb55da.png" width="480" height="420">
+
+## Ejecución del Código en la Raspberry
+Para ejecutar el código en la Raspberry primero hay que instalar las siguientes librerías
+
+
+
