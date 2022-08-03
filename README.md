@@ -131,5 +131,5 @@ sudo apt install -y python3-scipy
 
 Una vez instalado las librerías ejecute el código tal como se muestra en la siguiente figura
 
-<img src="https://user-images.githubusercontent.com/95665770/182500693-b3a25452-a19c-4b59-93e4-3e9d3dd0de13.png" width="480" height="420">
+<img src="https://user-images.githubusercontent.com/95665770/182500693-b3a25452-a19c-4b59-93e4-3e9d3dd0de13.png" width="580" height="420">
 
