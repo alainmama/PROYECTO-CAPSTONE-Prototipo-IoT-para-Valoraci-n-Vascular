@@ -133,3 +133,7 @@ Una vez instalado las librerías ejecute el código tal como se muestra en la si
 
 <img src="https://user-images.githubusercontent.com/95665770/182500693-b3a25452-a19c-4b59-93e4-3e9d3dd0de13.png" width="580" height="420">
 
+## Despliegue de Resultados
+Los resultados de la obtención de las métricas por medio del código en python se muestran en la siguiente figura
+
+<img src="https://user-images.githubusercontent.com/95665770/182507679-8973dd90-b1cf-4635-84be-6b8a065c18b3.png" width="580" height="420">
