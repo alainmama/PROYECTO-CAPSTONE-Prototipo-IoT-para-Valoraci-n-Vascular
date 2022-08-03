@@ -131,6 +131,5 @@ sudo apt install -y python3-scipy
 
 Una vez instalado las librerías ejecute el código tal como se muestra en la siguiente figura
 
-
-
+![WhatsApp Image 2022-07-27 at 10 51 49 AM](https://user-images.githubusercontent.com/95665770/182500038-ef05d493-681e-4da6-80d6-533862744d99.jpeg)
 
