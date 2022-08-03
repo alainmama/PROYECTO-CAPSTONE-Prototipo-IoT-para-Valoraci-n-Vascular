@@ -113,3 +113,6 @@ Los electrodos restantes se colocarán en puntos opuestos del pecho, uno en el l
 Coloque uno de los dos sensores de medición de pulso en el dedo índice de la mano izquierda, el otro puede ir, ya sea, en el dedo índice de la mano derecha o incluso en el dedo pulgar ambos pies.
 
 A continuacion se muestran los lugares aproximados en donde deben de ir los electrodos y sensores:
+
+![image](https://user-images.githubusercontent.com/95665770/182496697-ec9b1431-c4c4-4773-8c05-b541b1eb55da.png)
+
