@@ -119,5 +119,18 @@ A continuacion se muestran los lugares aproximados en donde deben de ir los elec
 ## Ejecución del Código en la Raspberry
 Para ejecutar el código en la Raspberry primero hay que instalar las siguientes librerías
 
+sudo apt-get install Python3-serial
+
+pip3 install matplotlib
+
+pip3 install numpy
+
+sudo apt install python3-pandas
+
+sudo apt install -y python3-scipy
+
+Una vez instalado las librerías ejecute el código tal como se muestra en la siguiente figura
+
+
 
 
